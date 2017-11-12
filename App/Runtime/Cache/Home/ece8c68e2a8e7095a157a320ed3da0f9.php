@@ -1,0 +1,57 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="/stucontrol/Public/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/stucontrol/Public/css/index.css" />
+<link rel="stylesheet" type="text/css" href="/stucontrol/Public/css/body.css" />
+<link rel="stylesheet" type="text/css" href="/stucontrol/Public/css/navigation.css" />
+<link rel="stylesheet" type="text/css" href="/stucontrol/Public/css/carousel.css" />
+<link rel="stylesheet" type="text/css" href="/stucontrol/Public/css/date.css" />
+<script src="/stucontrol/Public/js/jquery-1.11.3.min.js"></script>
+<script src="/stucontrol/Public/js/index.js"></script>
+<script src="/stucontrol/Public/js/navigation.js"></script>
+<!--
+<script src="/stucontrol/Public/js/carousel.js"></script>
+自行包装的图片轮播器备用
+-->
+<script src="/stucontrol/Public/js/date.js"></script>
+</head>
+<body>
+<div class="navigation"><!-- 导航栏 -->
+<a href="index.php">
+<div class="navigation_remind cursor_pointer">
+管理系统
+</div>
+</a>
+<div class="navbar-toggle cursor_pointer">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</div>
+<ul class="navigation_ul">
+<a href="index.php">
+<li class="navigation_ul_li navigation_active">
+&nbsp;首页
+</li>
+</a>
+<li class="navigation_ul_li">
+&nbsp;查寝
+</li>
+<li class="navigation_ul_li">
+&nbsp;PHP
+</li>
+<li class="navigation_ul_li">
+&nbsp;文学
+</li>
+<li class="navigation_ul_li">
+&nbsp;留言
+</li>
+</ul>
+</div>
+<div class="spacing">
+</div>
+</body>
+</html>

@@ -1,0 +1,255 @@
+.homework_head {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.homework_head :before,
+.homework_head :after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.homework_head_form {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.homework_head_form :before,
+.homework_head_form :after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.homework_head_form div {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.homework_head_form div :before,
+.homework_head_form div :after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+input {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+input :before,
+input :after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+.body_1{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.body_background{
+	height:500px;
+	background:url(../images/background_1.jpg) no-repeat center center;
+	background-size:100% 100%;
+}
+@media (min-width: 430px){
+.homework_head{
+	float:right;
+	height:100%;
+	width:350px;
+	padding:30px 15px;
+}
+.homework_head_form{
+	height:400px;
+	width:100%;
+	border:1px solid #ccc;
+}
+}
+@media (max-width: 430px){
+.body_1{
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+}
+.homework_head{
+	padding-top:10px;
+	height:100%;
+	width:98%;
+	padding-left:1%;
+}
+.body_background{
+	height:500px;
+	padding:0px;
+	width:100%;
+}
+.homework_head_form{
+	height:400px;
+	width:100%;
+	border:none;
+}
+}
+.homework_head_form_user{
+	height:40px;
+	width:100%;
+	margin-top:40px;
+}
+#username_remind{
+	height:40px;
+	line-height:40px;
+	width:35%;
+	text-align:center;
+	color:#333;
+	font-size:16px;
+	letter-spacing:5px;
+	float:left;
+}
+#username{
+	height:40px;
+	font-size:16px;
+	color:#333;
+	width:60%;
+	resize:none;
+	outline:none;
+	border:1px solid #ccc;
+	background:transparent;
+	padding-left:8px;
+	border-radius:5px;
+}
+
+
+.homework_head_form_password{
+	height:40px;
+	width:100%;
+	margin-top:30px;
+}
+#password_remind{
+	height:40px;
+	line-height:40px;
+	width:35%;
+	text-align:center;
+	color:#333;
+	font-size:16px;
+	letter-spacing:5px;
+	float:left;
+}
+#password{
+	height:40px;
+	font-size:16px;
+	color:#333;
+	width:60%;
+	resize:none;
+	outline:none;
+	border:1px solid #ccc;
+	background:transparent;
+	padding-left:8px;
+	border-radius:5px;
+}
+
+
+.validate{
+	min-height:0px;
+	width:100%;
+	margin-top:30px;
+}
+.validate_remind{
+	height:40px;
+	width:35%;
+	line-height:40px;
+	font-size:16px;
+	color:#333;
+	float:left;
+	text-align:center;
+	letter-spacing:5px;
+}
+.validate_input{
+	float:left;
+	height:40px;
+	width:60%;
+}
+#validate{
+	height:40px;
+	width:100%;
+	resize:none;
+	outline:none;
+	border:1px solid #ccc;
+	background:transparent;
+	padding-left:8px;
+	border-radius:5px;
+	color:#333;
+	font-size:14px;
+}
+.validate_img{
+	margin-top:10px;
+	width:65%;
+	height:40px;
+	line-height:40px;
+	font-size:16px;
+	color:#333;
+	float:left;
+}
+
+.homework_head_form_btn{
+	margin-top:140px;
+	height:45px;
+	width:100%;	
+	padding-left:15px;
+	padding-right:15px;
+}
+#homework_head_form_btn{
+	height:40px;
+	width:100%;
+	background:#169ADA;
+	border-radius:5px;
+	border:none;
+	outline:none;
+	resize:none;
+	color:#fff;
+	letter-spacing:5px;
+	font-size:17px;
+}
+#homework_head_form_btn:hover{
+	opacity:0.9;
+}
+.find_login{
+	height:20px;
+	width:100%;
+	padding-left:15px;
+	padding-right:15px;
+	margin-top:20px;
+}
+.homework_head_form_find{
+	height:20px;
+	width:50%;
+	color:#333;
+	float:left;
+	font-size:15px;
+	text-align:center;
+}
+.homework_head_form_find a{
+	text-decoration:none;
+	color:#333;
+}
+.homework_head_form_find a:hover{
+	color:#169ADA;
+}
+.homework_head_form_login{
+	height:20px;
+	width:50%;
+	color:#333;
+	float:left;
+	font-size:15px;
+	text-align:center;
+}
+.homework_head_form_login a{
+	text-decoration:none;
+	color:#333;
+}
+.homework_head_form_login a:hover{
+	color:#169ADA;
+}
+
+

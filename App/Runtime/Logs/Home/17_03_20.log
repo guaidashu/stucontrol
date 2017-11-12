@@ -1,0 +1,645 @@
+[ 2017-03-20T21:38:09+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006413s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:38:34+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:45:33+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:45:34+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:54:48+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:55:18+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:55:19+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:00+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:01+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:02+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:03+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:05+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:06+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:57:16+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:59:42+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T21:59:43+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:00:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:00:32+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:00:42+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:00:48+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:02:25+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:02:53+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:02:54+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:04:35+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:07:49+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:07:50+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:09:35+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:09:35+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:12:01+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:12:02+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:20:03+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:20:04+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:22:04+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:22:28+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:24:27+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+ERR: SQLSTATE[HY000] [1130] Host '182.143.96.54' is not allowed to connect to this MySQL server
+
+[ 2017-03-20T22:37:59+08:00 ] ::1 /stucontrol/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0637s ]
+SQL: SELECT * FROM `stu_information` ORDER BY id desc LIMIT 0,8   [ RunTime:0.0649s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 1031 行.
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0638s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 574 行.
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0629s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 602 行.
+SQL: SHOW COLUMNS FROM `stu_dorm` [ RunTime:0.0640s ]
+SQL: SELECT `dorm`,`id`,`reportdate` FROM `stu_dorm` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0645s ]
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 634 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php on line 21 and defined D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015528s ]
+
+[ 2017-03-20T22:38:05+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `stu_guestbook` [ RunTime:0.0573s ]
+SQL: SELECT * FROM `stu_guestbook` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0574s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SHOW COLUMNS FROM `stu_guestbook_comment` [ RunTime:0.0572s ]
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=21 )  [ RunTime:0.0567s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=16 )  [ RunTime:0.0583s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=15 )  [ RunTime:0.0573s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=14 )  [ RunTime:0.0599s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=13 )  [ RunTime:0.0581s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=12 )  [ RunTime:0.0582s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=11 )  [ RunTime:0.0567s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=10 )  [ RunTime:0.0582s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=9 )  [ RunTime:0.0568s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=5 )  [ RunTime:0.0587s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined offset: 10 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 782 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `stu_guestbook` LIMIT 1   [ RunTime:0.0566s ]
+NOTIC: [8] Undefined index: user_student_classname D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 320 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+
+[ 2017-03-20T22:38:05+08:00 ] ::1 /stucontrol/Home/Index/get_username.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+
+[ 2017-03-20T22:38:06+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `stu_guestbook` [ RunTime:0.0601s ]
+SQL: SELECT * FROM `stu_guestbook` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0595s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SHOW COLUMNS FROM `stu_guestbook_comment` [ RunTime:0.0613s ]
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=21 )  [ RunTime:0.0608s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=16 )  [ RunTime:0.0603s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=15 )  [ RunTime:0.0607s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=14 )  [ RunTime:0.0603s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=13 )  [ RunTime:0.0606s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=12 )  [ RunTime:0.0608s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=11 )  [ RunTime:0.0603s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=10 )  [ RunTime:0.0603s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=9 )  [ RunTime:0.0605s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=5 )  [ RunTime:0.0603s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined offset: 10 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 782 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `stu_guestbook` LIMIT 1   [ RunTime:0.0597s ]
+NOTIC: [8] Undefined index: user_student_classname D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 320 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002957s ]
+
+[ 2017-03-20T22:38:06+08:00 ] ::1 /stucontrol/Home/Index/get_username.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+
+[ 2017-03-20T22:38:07+08:00 ] ::1 /stucontrol/Home/Index/validate_returncount.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2017-03-20T22:38:08+08:00 ] ::1 /stucontrol/Home/Index/validate_returncount.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-03-20T22:40:48+08:00 ] ::1 /stucontrol/Home/Index/guestbook_show_more.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `stu_guestbook` [ RunTime:0.0648s ]
+SQL: SELECT * FROM `stu_guestbook` ORDER BY id desc LIMIT 10,10   [ RunTime:0.0636s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SHOW COLUMNS FROM `stu_guestbook_comment` [ RunTime:0.0640s ]
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=4 )  [ RunTime:0.0649s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=2 )  [ RunTime:0.0648s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 782 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001291s ]
+
+[ 2017-03-20T22:40:50+08:00 ] ::1 /stucontrol/Home/Index/guestbook_show_more.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `stu_guestbook` [ RunTime:0.0585s ]
+SQL: SELECT * FROM `stu_guestbook` ORDER BY id desc LIMIT 20,10   [ RunTime:0.0578s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 782 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-03-20T22:40:54+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0627s ]
+SQL: SELECT * FROM `stu_information` ORDER BY id desc LIMIT 0,8   [ RunTime:0.0653s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 1031 行.
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0624s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 574 行.
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0618s ]
+NOTIC: [8] Undefined offset: 5 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 602 行.
+SQL: SHOW COLUMNS FROM `stu_dorm` [ RunTime:0.0623s ]
+SQL: SELECT `dorm`,`id`,`reportdate` FROM `stu_dorm` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0621s ]
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 634 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php on line 21 and defined D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2017-03-20T22:40:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0563s ]
+SQL: SELECT * FROM `stu_information` WHERE ( id=9 )  [ RunTime:0.0531s ]
+SQL: UPDATE `stu_information` SET `look_number`='41' WHERE ( id=9 ) [ RunTime:0.0577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054099s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001153s ]
+

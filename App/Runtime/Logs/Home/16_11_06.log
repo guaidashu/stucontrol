@@ -1,0 +1,1763 @@
+[ 2016-11-06T00:02:19+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2016-11-06T00:03:21+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-11-06T00:04:17+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-11-06T00:04:33+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-11-06T00:11:12+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-11-06T00:11:23+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-11-06T00:11:35+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-11-06T00:12:42+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-11-06T00:13:08+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-11-06T00:13:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-11-06T00:19:55+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+
+[ 2016-11-06T00:21:16+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-11-06T00:36:55+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-11-06T00:38:06+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-11-06T00:38:11+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-06T00:42:05+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003286s ]
+
+[ 2016-11-06T00:42:37+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-11-06T00:42:38+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-11-06T00:42:49+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=7124
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-11-06T00:42:49+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%28%27%28%29%22%27%28%22%27%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%209115%3D9421%20AND%20%28561%3D561
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%207955%3D7955%20AND%20%288676%3D8676
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%209914%3D4140%20AND%20%289684%3D9684
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%203463%3D5069
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%207955%3D7955
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%207418%3D8778
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%20724%3D7274%20AND%20%28%27Ozdq%27%3D%27Ozdq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%207955%3D7955%20AND%20%28%27mziP%27%3D%27mziP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%203332%3D5501%20AND%20%28%27ffAA%27%3D%27ffAA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%209907%3D5861%20AND%20%27sAYf%27%3D%27sAYf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-11-06T00:42:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%207955%3D7955%20AND%20%27dqsk%27%3D%27dqsk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%20759%3D1729%20AND%20%27tKJj%27%3D%27tKJj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%20%28SELECT%205170%20FROM%28SELECT%20COUNT%28%2A%29%2CCONCAT%28CHAR%2858%2C115%2C109%2C105%2C58%29%2C%28SELECT%20%28CASE%20WHEN%20%285170%3D5170%29%20THEN%201%20ELSE%200%20END%29%29%2CCHAR%2858%2C121%2C114%2C111%2C58%29%2CFLOOR%28RAND%280%29%2A2%29%29x%20FROM%20information_schema.tables%20GROUP%20BY%20x%29a%29%20AND%20%286537%3D6537
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%20%28SELECT%205170%20FROM%28SELECT%20COUNT%28%2A%29%2CCONCAT%28CHAR%2858%2C115%2C109%2C105%2C58%29%2C%28SELECT%20%28CASE%20WHEN%20%285170%3D5170%29%20THEN%201%20ELSE%200%20END%29%29%2CCHAR%2858%2C121%2C114%2C111%2C58%29%2CFLOOR%28RAND%280%29%2A2%29%29x%20FROM%20information_schema.tables%20GROUP%20BY%20x%29a%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%20%28SELECT%205170%20FROM%28SELECT%20COUNT%28%2A%29%2CCONCAT%28CHAR%2858%2C115%2C109%2C105%2C58%29%2C%28SELECT%20%28CASE%20WHEN%20%285170%3D5170%29%20THEN%201%20ELSE%200%20END%29%29%2CCHAR%2858%2C121%2C114%2C111%2C58%29%2CFLOOR%28RAND%280%29%2A2%29%29x%20FROM%20information_schema.tables%20GROUP%20BY%20x%29a%29%20AND%20%28%27qCnL%27%3D%27qCnL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%20%28SELECT%205170%20FROM%28SELECT%20COUNT%28%2A%29%2CCONCAT%28CHAR%2858%2C115%2C109%2C105%2C58%29%2C%28SELECT%20%28CASE%20WHEN%20%285170%3D5170%29%20THEN%201%20ELSE%200%20END%29%29%2CCHAR%2858%2C121%2C114%2C111%2C58%29%2CFLOOR%28RAND%280%29%2A2%29%29x%20FROM%20information_schema.tables%20GROUP%20BY%20x%29a%29%20AND%20%27QVGp%27%3D%27QVGp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%208182%3DCAST%28CHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%288182%3D8182%29%20THEN%201%20ELSE%200%20END%29%29%3A%3Atext%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%20AS%20NUMERIC%29%20AND%20%281161%3D1161
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%208182%3DCAST%28CHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%288182%3D8182%29%20THEN%201%20ELSE%200%20END%29%29%3A%3Atext%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%20AS%20NUMERIC%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%208182%3DCAST%28CHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%288182%3D8182%29%20THEN%201%20ELSE%200%20END%29%29%3A%3Atext%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%20AS%20NUMERIC%29%20AND%20%28%27ncEt%27%3D%27ncEt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%208182%3DCAST%28CHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%288182%3D8182%29%20THEN%201%20ELSE%200%20END%29%29%3A%3Atext%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%20AS%20NUMERIC%29%20AND%20%27BrRN%27%3D%27BrRN
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%206989%3DCONVERT%28INT%2C%28CHAR%2858%29%2BCHAR%28115%29%2BCHAR%28109%29%2BCHAR%28105%29%2BCHAR%2858%29%2B%28SELECT%20%28CASE%20WHEN%20%286989%3D6989%29%20THEN%20CHAR%2849%29%20ELSE%20CHAR%2848%29%20END%29%29%2BCHAR%2858%29%2BCHAR%28121%29%2BCHAR%28114%29%2BCHAR%28111%29%2BCHAR%2858%29%29%29%20AND%20%286338%3D6338
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%206989%3DCONVERT%28INT%2C%28CHAR%2858%29%2BCHAR%28115%29%2BCHAR%28109%29%2BCHAR%28105%29%2BCHAR%2858%29%2B%28SELECT%20%28CASE%20WHEN%20%286989%3D6989%29%20THEN%20CHAR%2849%29%20ELSE%20CHAR%2848%29%20END%29%29%2BCHAR%2858%29%2BCHAR%28121%29%2BCHAR%28114%29%2BCHAR%28111%29%2BCHAR%2858%29%29%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%206989%3DCONVERT%28INT%2C%28CHAR%2858%29%2BCHAR%28115%29%2BCHAR%28109%29%2BCHAR%28105%29%2BCHAR%2858%29%2B%28SELECT%20%28CASE%20WHEN%20%286989%3D6989%29%20THEN%20CHAR%2849%29%20ELSE%20CHAR%2848%29%20END%29%29%2BCHAR%2858%29%2BCHAR%28121%29%2BCHAR%28114%29%2BCHAR%28111%29%2BCHAR%2858%29%29%29%20AND%20%28%27XHXk%27%3D%27XHXk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-11-06T00:42:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%206989%3DCONVERT%28INT%2C%28CHAR%2858%29%2BCHAR%28115%29%2BCHAR%28109%29%2BCHAR%28105%29%2BCHAR%2858%29%2B%28SELECT%20%28CASE%20WHEN%20%286989%3D6989%29%20THEN%20CHAR%2849%29%20ELSE%20CHAR%2848%29%20END%29%29%2BCHAR%2858%29%2BCHAR%28121%29%2BCHAR%28114%29%2BCHAR%28111%29%2BCHAR%2858%29%29%29%20AND%20%27Xnmb%27%3D%27Xnmb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%204020%3D%28SELECT%20UPPER%28XMLType%28CHR%2860%29%7C%7CCHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%284020%3D4020%29%20THEN%201%20ELSE%200%20END%29%20FROM%20DUAL%29%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%7C%7CCHR%2862%29%29%29%20FROM%20DUAL%29%20AND%20%285989%3D5989
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%204020%3D%28SELECT%20UPPER%28XMLType%28CHR%2860%29%7C%7CCHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%284020%3D4020%29%20THEN%201%20ELSE%200%20END%29%20FROM%20DUAL%29%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%7C%7CCHR%2862%29%29%29%20FROM%20DUAL%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%204020%3D%28SELECT%20UPPER%28XMLType%28CHR%2860%29%7C%7CCHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%284020%3D4020%29%20THEN%201%20ELSE%200%20END%29%20FROM%20DUAL%29%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%7C%7CCHR%2862%29%29%29%20FROM%20DUAL%29%20AND%20%28%27MRJB%27%3D%27MRJB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%204020%3D%28SELECT%20UPPER%28XMLType%28CHR%2860%29%7C%7CCHR%2858%29%7C%7CCHR%28115%29%7C%7CCHR%28109%29%7C%7CCHR%28105%29%7C%7CCHR%2858%29%7C%7C%28SELECT%20%28CASE%20WHEN%20%284020%3D4020%29%20THEN%201%20ELSE%200%20END%29%20FROM%20DUAL%29%7C%7CCHR%2858%29%7C%7CCHR%28121%29%7C%7CCHR%28114%29%7C%7CCHR%28111%29%7C%7CCHR%2858%29%7C%7CCHR%2862%29%29%29%20FROM%20DUAL%29%20AND%20%27HxnA%27%3D%27HxnA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%3B%20SELECT%20SLEEP%285%29%3B--%20%20AND%20%288754%3D8754
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%3B%20SELECT%20SLEEP%285%29%3B--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%3B%20SELECT%20SLEEP%285%29%3B--%20%20AND%20%28%27lDDR%27%3D%27lDDR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%3B%20SELECT%20SLEEP%285%29%3B--%20%20AND%20%27MPpg%27%3D%27MPpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%3B%20SELECT%20PG_SLEEP%285%29%3B--%20AND%20%281184%3D1184
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%3B%20SELECT%20PG_SLEEP%285%29%3B--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%3B%20SELECT%20PG_SLEEP%285%29%3B--%20AND%20%28%27ZzWT%27%3D%27ZzWT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%3B%20SELECT%20PG_SLEEP%285%29%3B--%20AND%20%27djyn%27%3D%27djyn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%3B%20WAITFOR%20DELAY%20%270%3A0%3A5%27%3B--%20AND%20%288398%3D8398
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-11-06T00:42:52+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%3B%20WAITFOR%20DELAY%20%270%3A0%3A5%27%3B--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%3B%20WAITFOR%20DELAY%20%270%3A0%3A5%27%3B--%20AND%20%28%27AgJo%27%3D%27AgJo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%3B%20WAITFOR%20DELAY%20%270%3A0%3A5%27%3B--%20AND%20%27CyRa%27%3D%27CyRa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%20SLEEP%285%29%20AND%20%282642%3D2642
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%20SLEEP%285%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%20SLEEP%285%29%20AND%20%28%27VBiU%27%3D%27VBiU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%20SLEEP%285%29%20AND%20%27Wdrh%27%3D%27Wdrh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%206531%3D%28SELECT%206531%20FROM%20PG_SLEEP%285%29%29%20AND%20%282837%3D2837
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%206531%3D%28SELECT%206531%20FROM%20PG_SLEEP%285%29%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%206531%3D%28SELECT%206531%20FROM%20PG_SLEEP%285%29%29%20AND%20%28%27OZuf%27%3D%27OZuf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%206531%3D%28SELECT%206531%20FROM%20PG_SLEEP%285%29%29%20AND%20%27piTI%27%3D%27piTI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20WAITFOR%20DELAY%20%270%3A0%3A5%27--%20AND%20%288431%3D8431
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20WAITFOR%20DELAY%20%270%3A0%3A5%27--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20WAITFOR%20DELAY%20%270%3A0%3A5%27--%20AND%20%28%27wVDm%27%3D%27wVDm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20WAITFOR%20DELAY%20%270%3A0%3A5%27--%20AND%20%27rJck%27%3D%27rJck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-11-06T00:42:53+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20AND%207215%3DDBMS_PIPE.RECEIVE_MESSAGE%28CHR%2871%29%7C%7CCHR%28102%29%7C%7CCHR%28111%29%7C%7CCHR%28108%29%2C5%29%20AND%20%286496%3D6496
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20AND%207215%3DDBMS_PIPE.RECEIVE_MESSAGE%28CHR%2871%29%7C%7CCHR%28102%29%7C%7CCHR%28111%29%7C%7CCHR%28108%29%2C5%29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20AND%207215%3DDBMS_PIPE.RECEIVE_MESSAGE%28CHR%2871%29%7C%7CCHR%28102%29%7C%7CCHR%28111%29%7C%7CCHR%28108%29%2C5%29%20AND%20%28%27gsLI%27%3D%27gsLI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20AND%207215%3DDBMS_PIPE.RECEIVE_MESSAGE%28CHR%2871%29%7C%7CCHR%28102%29%7C%7CCHR%28111%29%7C%7CCHR%28108%29%2C5%29%20AND%20%27IAnt%27%3D%27IAnt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%23%20AND%20%289086%3D9086
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%23%20AND%20%287456%3D7456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%289388%3D9388
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%283746%3D3746
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%281850%3D1850
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%289543%3D9543
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%282750%3D2750
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%283878%3D3878
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-11-06T00:42:54+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28896%3D896
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%283922%3D3922
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-11-06T00:42:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%23%20AND%20%28%27NtZW%27%3D%27NtZW
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%23%20AND%20%28%27TYQB%27%3D%27TYQB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27wNDD%27%3D%27wNDD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27XRNl%27%3D%27XRNl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27qmjv%27%3D%27qmjv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27svIy%27%3D%27svIy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27cYRb%27%3D%27cYRb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27LiQo%27%3D%27LiQo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27TVZr%27%3D%27TVZr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%28%27hyBP%27%3D%27hyBP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-11-06T00:42:56+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%23%20AND%20%27MEIG%27%3D%27MEIG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%23%20AND%20%27iprC%27%3D%27iprC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27FvbZ%27%3D%27FvbZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27XKoa%27%3D%27XKoa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27IImk%27%3D%27IImk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27Vugd%27%3D%27Vugd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27xEUf%27%3D%27xEUf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27wndi%27%3D%27wndi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27YnEQ%27%3D%27YnEQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%23%20AND%20%27alIa%27%3D%27alIa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-06T00:42:57+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL--%20AND%20%289296%3D9296
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL--%20AND%20%288065%3D8065
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL--%20AND%20%287889%3D7889
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%285575%3D5575
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%281163%3D1163
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%284311%3D4311
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28253%3D253
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%287137%3D7137
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%283670%3D3670
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%285301%3D5301
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-11-06T00:42:58+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL--%20AND%20%28%27qdUC%27%3D%27qdUC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL--%20AND%20%28%27lrJz%27%3D%27lrJz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-11-06T00:42:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27zXIO%27%3D%27zXIO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27bBTX%27%3D%27bBTX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27gXOx%27%3D%27gXOx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27EbBi%27%3D%27EbBi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27Uvql%27%3D%27Uvql
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27CBDt%27%3D%27CBDt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27atus%27%3D%27atus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%29%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%28%27DLHG%27%3D%27DLHG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL--%20AND%20%27lkVy%27%3D%27lkVy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL--%20AND%20%27LEEU%27%3D%27LEEU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27KIvS%27%3D%27KIvS
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-11-06T00:43:00+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27CwMI%27%3D%27CwMI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-11-06T00:43:01+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27VuVC%27%3D%27VuVC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-11-06T00:43:01+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27VURp%27%3D%27VURp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2016-11-06T00:43:01+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27Qmhc%27%3D%27Qmhc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-11-06T00:43:01+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27dzma%27%3D%27dzma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-11-06T00:43:01+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27Fbyw%27%3D%27Fbyw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-11-06T00:43:01+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%27%20UNION%20ALL%20SELECT%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL--%20AND%20%27Hekm%27%3D%27Hekm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-11-06T00:43:42+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-11-06T00:44:23+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-11-06T00:44:23+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-11-06T00:44:24+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-11-06T00:44:32+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-11-06T00:51:23+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-11-06T00:51:28+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20%E2%80%98as%E2%80%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-11-06T00:51:37+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20%E2%80%98%E2%80%99%E3%80%81
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '‘’、 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `stu_information` WHERE ( id=15 ‘’、 ) 
+
+[ 2016-11-06T00:51:46+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-11-06T00:58:00+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001611s ]
+
+[ 2016-11-06T00:58:03+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+
+[ 2016-11-06T00:58:05+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-11-06T00:58:09+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+
+[ 2016-11-06T00:58:13+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20///
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-11-06T00:58:19+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-11-06T00:58:24+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=%2055
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+
+[ 2016-11-06T00:58:29+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-11-06T00:58:36+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-11-06T00:58:47+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id==6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-11-06T00:58:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=\\
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-11-06T00:58:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=\\
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-11-06T00:58:59+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-11-06T00:59:02+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=80
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-06T00:59:06+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-11-06T00:59:10+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=\\
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-11-06T00:59:14+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-11-06T00:59:43+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-11-06T00:59:47+08:00 ] ::1 /stucontrol/Home/Index/information.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-06T00:59:50+08:00 ] ::1 /stucontrol/Home/Index/information.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2016-11-06T00:59:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-11-06T00:59:55+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-06T01:00:07+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-11-06T01:00:13+08:00 ] ::1 /stucontrol/Home/Index/information.shtml==//hgj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 非法操作:information.shtml==
+
+[ 2016-11-06T01:00:23+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-11-06T01:00:30+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-11-06T01:00:35+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-11-06T01:00:39+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20or%201=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-06T01:00:42+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20or%201=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-11-06T01:00:45+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15%20or
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-11-06T01:00:48+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-11-06T01:08:06+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-11-06T01:08:43+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-11-06T01:09:27+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-11-06T11:37:27+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-11-06T11:58:32+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-11-06T11:58:39+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-06T12:00:15+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-11-06T12:00:30+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-06T12:00:54+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-11-06T12:01:06+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-11-06T12:13:57+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-11-06T12:51:56+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-11-06T12:53:02+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-11-06T12:53:07+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-11-06T12:54:03+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-11-06T12:54:51+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-11-06T12:58:18+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+
+[ 2016-11-06T13:03:48+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-11-06T13:04:26+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+
+[ 2016-11-06T13:05:16+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-11-06T13:05:28+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-11-06T13:06:23+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-11-06T13:06:39+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-11-06T13:06:47+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-11-06T13:07:00+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-11-06T13:16:39+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-11-06T13:16:59+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-11-06T13:17:22+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-11-06T13:18:01+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-11-06T13:19:06+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-11-06T13:19:24+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2016-11-06T13:20:04+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-11-06T13:23:14+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-11-06T13:23:17+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id==6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-11-06T13:23:23+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-06T13:23:26+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-11-06T13:23:30+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-06T13:23:35+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-11-06T13:24:08+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-11-06T13:24:57+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-11-06T13:25:50+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-11-06T13:27:55+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-11-06T13:28:13+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-11-06T13:29:21+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2016-11-06T13:29:44+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+
+[ 2016-11-06T13:30:05+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-11-06T13:30:47+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-11-06T13:31:18+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-06T13:31:37+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+
+[ 2016-11-06T13:31:49+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-11-06T13:32:37+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-11-06T13:33:17+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-11-06T13:33:24+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-11-06T13:33:53+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-11-06T13:34:07+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-11-06T13:34:18+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-11-06T13:34:36+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-11-06T13:34:52+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-11-06T13:35:57+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-11-06T13:36:13+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001697s ]
+
+[ 2016-11-06T13:36:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-11-06T13:38:48+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-11-06T13:39:51+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-11-06T13:40:12+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-11-06T13:41:19+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-11-06T13:41:30+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-11-06T13:41:55+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-11-06T13:42:20+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-11-06T13:44:13+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2016-11-06T13:44:41+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003202s ]
+
+[ 2016-11-06T13:45:17+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-11-06T13:46:44+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-11-06T13:47:48+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-11-06T13:47:50+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-11-06T13:47:51+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-11-06T13:47:51+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-06T13:47:52+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-06T13:47:53+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-11-06T13:51:59+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-06T14:20:52+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-11-06T14:21:08+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-11-06T14:22:26+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-06T14:26:37+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2016-11-06T14:27:31+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-11-06T14:28:15+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-06T14:42:30+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-11-06T14:45:42+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-11-06T14:45:59+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+
+[ 2016-11-06T14:47:39+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-11-06T14:47:42+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-11-06T14:47:58+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-11-06T14:48:08+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-11-06T14:49:01+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-11-06T14:49:37+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-11-06T14:50:10+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-11-06T14:50:15+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-11-06T14:50:54+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-06T14:54:12+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-11-06T14:56:08+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-11-06T14:57:33+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-11-06T15:56:02+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-06T15:59:16+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-11-06T16:00:21+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-11-06T16:00:41+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-11-06T16:02:03+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-06T16:02:23+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-11-06T16:03:48+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-11-06T16:06:41+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-11-06T16:08:37+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-11-06T16:10:09+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-11-06T16:10:09+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-11-06T16:10:20+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-11-06T16:10:20+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0454s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 316 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-11-06T16:10:20+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-11-06T16:11:59+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-11-06T16:17:19+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-11-06T16:17:58+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+
+[ 2016-11-06T16:18:33+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-11-06T16:24:32+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-11-06T16:26:08+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-11-06T16:29:16+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-11-06T16:29:27+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+
+[ 2016-11-06T16:29:38+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-11-06T16:39:57+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-11-06T16:40:16+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-11-06T16:40:44+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-11-06T16:43:00+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+
+[ 2016-11-06T16:43:17+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-11-06T16:45:36+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-11-06T16:45:47+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-11-06T23:11:10+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-11-06T23:17:07+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-06T23:29:20+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-11-06T23:29:28+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-11-06T23:31:00+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-11-06T23:31:07+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2016-11-06T23:32:02+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-11-06T23:32:10+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-11-06T23:33:51+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-11-06T23:34:09+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-11-06T23:34:19+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-11-06T23:34:26+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-11-06T23:34:32+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-11-06T23:44:24+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-11-06T23:45:44+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-11-06T23:45:44+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-11-06T23:45:55+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-11-06T23:45:55+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0397s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 316 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-11-06T23:45:55+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-06T23:50:18+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+

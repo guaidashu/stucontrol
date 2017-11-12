@@ -1,0 +1,481 @@
+[ 2016-11-28T14:39:04+08:00 ] ::1 /stucontrol/Home/Index/information.shtml?id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007464s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0775s ]
+SQL: SELECT * FROM `stu_information` WHERE ( id=4 )  [ RunTime:0.0201s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 665 行.
+SQL: UPDATE `stu_information` SET `look_number`='1' WHERE ( id=4 ) [ RunTime:0.0185s ]
+NOTIC: [8] Undefined index: title D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 681 行.
+NOTIC: [8] Undefined index: author D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 684 行.
+NOTIC: [8] Undefined index: look_number D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 685 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010056s ]
+
+[ 2016-11-28T14:39:10+08:00 ] ::1 /stucontrol/home/index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `stu_guestbook` [ RunTime:0.0813s ]
+SQL: SELECT * FROM `stu_guestbook` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SHOW COLUMNS FROM `stu_guestbook_comment` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=22 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=21 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=20 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=19 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 858 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=18 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=16 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=15 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=14 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=13 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+NOTIC: [8] Undefined index: user_student_classnumber D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 783 行.
+SQL: SELECT * FROM `stu_guestbook_comment` WHERE ( son_id=5 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 848 行.
+NOTIC: [8] Undefined offset: 10 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 782 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `stu_guestbook` LIMIT 1   [ RunTime:0.0333s ]
+NOTIC: [8] Undefined index: user_student_classname D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 320 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019796s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001911s ]
+
+[ 2016-11-28T14:39:10+08:00 ] ::1 /stucontrol/Home/Index/get_username.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+
+[ 2016-11-28T14:39:11+08:00 ] ::1 /stucontrol/Home/Index/validate_returncount.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2016-11-28T14:39:17+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `stu_information` ORDER BY id desc LIMIT 0,8   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 8 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 1031 行.
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0007s ]
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 10 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 602 行.
+SQL: SHOW COLUMNS FROM `stu_dorm` [ RunTime:0.0365s ]
+SQL: SELECT `dorm`,`id`,`reportdate` FROM `stu_dorm` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 634 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php on line 21 and defined D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001420s ]
+
+[ 2016-11-28T20:18:35+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007341s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0257s ]
+SQL: SELECT * FROM `stu_information` ORDER BY id desc LIMIT 0,8   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 8 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 1031 行.
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SELECT `title`,`id`,`kind` FROM `stu_information` ORDER BY id desc  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 10 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 602 行.
+SQL: SHOW COLUMNS FROM `stu_dorm` [ RunTime:0.0042s ]
+SQL: SELECT `dorm`,`id`,`reportdate` FROM `stu_dorm` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 634 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php on line 21 and defined D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\stucontrol\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013848s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013894s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009838s ]
+
+[ 2016-11-28T20:18:37+08:00 ] ::1 /stucontrol/Home/Index/total_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `stu_total` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `stu_total` ORDER BY id desc LIMIT 0,11   [ RunTime:0.0961s ]
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 7 D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Undefined index: user_teacher D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 264 行.
+NOTIC: [8] Undefined index: user_student_classname D:\phpStudy\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 294 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-11-28T20:18:37+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2016-11-28T20:19:04+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014131s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-11-28T20:19:14+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-11-28T20:19:41+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-11-28T20:20:09+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-11-28T20:20:55+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-11-28T20:21:16+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-11-28T20:23:34+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-11-28T20:23:46+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000985s ]
+
+[ 2016-11-28T20:23:59+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-11-28T20:24:28+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2016-11-28T20:24:48+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-11-28T20:24:59+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+

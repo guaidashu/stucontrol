@@ -1,0 +1,117 @@
+﻿;(function($){
+	var index_function=function(){
+		var self=this;
+		this.body=$(document.body);
+		//this.ajaxTest();
+		//alert($(document).width());
+		$(".stu_control").css({
+			"min-height":parseInt($(".stu_control_left").css("height"))+90+"px"
+		});
+		this.body.delegate(".stu_exit","click",function(){
+			if(confirm("确定退出？")){
+				self.exit_log();
+			}
+		});
+		this.body.delegate(".stu_total_no","click",function(){
+			$(".stu_total").css("display","none");
+			$(".stu_student_total").css("display","block");
+			document.getElementById("stu_student_total_input").focus();
+		});
+		this.body.delegate(".stu_student_total_back","click",function(){
+			$(".stu_total").css("display","block");
+			$(".stu_student_total").css("display","none");
+		});
+		this.body.delegate(".stu_total_yes","click",function(){
+			self.stu_total_yes();
+		});
+		this.body.delegate(".stu_student_total_btn","click",function(){
+			self.stu_student_total();
+		});
+		window.onresize=function(){
+			var screen_width=parseInt($(document).width());
+			$(".stu_control").css({
+			   "min-height":parseInt($(".stu_control_left").css("height"))+90+"px"
+		    }); 
+			if(screen_width>800){
+				$(".navigation_ul").css({
+					"display":"block"
+				});
+			}else{
+				$(".navigation_ul").css({
+					"display":"none"
+				});
+			}
+		}
+	};
+	index_function.prototype={
+		exit_log:function(){
+			$.ajax({
+				url:"/stucontrol/Home/Index/exit_log_stu.shtml",
+				type:"GET",
+				dataType:"json",
+				data:{},
+				success:function(data){
+					if(data.text=="ok"){
+						alert("成功退出");
+						location.href="/stucontrol/Home/Index/index.shtml";
+					}else{
+						alert("系统错误，稍后再试");
+					}
+				},
+				error:function(data,status,e){
+					console.log(e);
+				}
+			});
+		},
+		stu_total_yes:function(){//到齐
+			$.ajax({
+				url:"/stucontrol/Home/Index/stu_total_yes.shtml",
+				type:"GET",
+				dataType:"json",
+				data:{},
+				success:function(data){
+					if(data.text=="ok"){
+						alert("点到成功");
+					}else if(data.text=="exist"){
+						alert("今日已经清点");
+					}else{
+						alert("系统错误，稍后再试");
+					}
+				},
+				error:function(data,status,e){
+					alert("系统错误，请稍后再试");
+					console.log(e);
+				}
+			});
+		},
+		stu_student_total:function(){//未到齐
+			var self=this;
+			var latename=document.getElementById("stu_student_total_input").value;
+			latename=$.trim(latename);
+			if(!latename){
+				alert("输入不能为空,若已经到齐请点击到齐提交");
+				return;
+			}
+			$.ajax({
+				url:"/stucontrol/Home/Index/stu_student_total.shtml",
+				type:"POST",
+				dataType:"json",
+				data:{"latename":latename},
+				success:function(data){
+					if(data.text=="ok"){
+						alert("上传成功,再次提交进行修改");
+					}else{
+						alert("系统错误，稍后再试");
+					}
+				},
+				error:function(data,status,e){
+					console.log(e);
+				}
+			});
+		}
+	}
+	window['index_function']=index_function;
+})(jQuery);
+$(function(){
+	var index=new index_function();
+});

@@ -1,0 +1,1818 @@
+[ 2016-11-03T00:03:00+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-11-03T00:06:28+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-11-03T00:08:52+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-11-03T00:08:59+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-03T00:09:00+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-11-03T00:11:26+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-11-03T00:11:53+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-11-03T00:14:07+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-11-03T00:14:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-11-03T00:14:19+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-03T00:15:17+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-03T00:15:20+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-11-03T00:15:53+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-11-03T00:16:04+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2016-11-03T00:16:32+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-11-03T00:16:45+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-03T00:17:19+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-11-03T00:17:37+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-11-03T00:17:47+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-11-03T00:18:01+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-11-03T00:18:11+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-03T00:18:41+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-11-03T00:22:21+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-11-03T00:23:05+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-11-03T00:23:18+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2016-11-03T00:24:28+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2016-11-03T00:33:31+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-11-03T00:33:45+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-11-03T00:33:52+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-11-03T00:34:30+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-11-03T00:34:48+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-11-03T00:35:18+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-11-03T00:35:40+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-11-03T00:36:34+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-11-03T00:36:43+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-03T00:36:56+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-11-03T00:37:08+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-11-03T00:37:45+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-11-03T00:41:52+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-11-03T00:43:27+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-03T00:43:52+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2016-11-03T00:43:55+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-11-03T00:44:06+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-11-03T00:44:23+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-11-03T00:46:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-11-03T00:47:27+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-11-03T00:48:02+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-11-03T00:48:08+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-11-03T00:48:12+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-11-03T00:49:37+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-11-03T00:49:44+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-11-03T00:50:21+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-11-03T00:50:31+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2016-11-03T00:52:14+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+
+[ 2016-11-03T00:52:25+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-11-03T00:53:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-11-03T00:53:21+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-11-03T00:53:50+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-11-03T00:54:15+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-11-03T09:46:19+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-11-03T09:46:25+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-11-03T09:46:26+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-11-03T09:46:36+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 152 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-11-03T09:46:36+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 152 行.
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.2261s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 135 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-11-03T09:46:36+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-11-03T09:47:32+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-03T09:49:22+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-11-03T09:49:42+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-03T09:50:07+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-11-03T09:50:41+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-11-03T09:51:18+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-11-03T09:51:26+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001709s ]
+
+[ 2016-11-03T09:51:49+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-11-03T09:51:50+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-03T09:55:47+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-11-03T09:56:00+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-11-03T09:56:23+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-11-03T09:56:35+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-03T09:57:00+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-11-03T09:57:24+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-11-03T09:57:37+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-11-03T09:58:04+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-11-03T09:58:27+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-11-03T12:37:26+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-11-03T12:37:51+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-11-03T12:38:17+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-11-03T12:47:08+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-11-03T12:47:29+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-11-03T12:48:33+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2016-11-03T12:48:38+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-11-03T12:48:39+08:00 ] ::1 /stucontrol/Home/Index/total_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-11-03T12:48:40+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-11-03T12:48:41+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-11-03T13:07:02+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-11-03T13:08:42+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-11-03T13:10:21+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-11-03T13:11:41+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-11-03T13:12:41+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-11-03T13:13:28+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-11-03T13:13:42+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-11-03T13:15:57+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-11-03T13:27:28+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-11-03T13:29:16+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-11-03T13:30:45+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-11-03T18:25:25+08:00 ] ::1 /stucontrol/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-11-03T18:25:47+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-11-03T18:25:50+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-11-03T18:25:50+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-11-03T18:33:26+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-11-03T18:34:33+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-11-03T18:34:36+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-11-03T18:34:38+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-03T18:34:38+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-11-03T18:41:56+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-11-03T18:42:48+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-11-03T18:42:49+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-11-03T18:43:01+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2016-11-03T18:43:02+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-03T18:43:02+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-11-03T18:49:47+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-11-03T18:50:08+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-03T18:50:11+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-03T18:50:21+08:00 ] ::1 /stucontrol/Home/Index/total_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-11-03T18:50:21+08:00 ] ::1 /stucontrol/Home/Index/admin.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2016-11-03T18:50:23+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-11-03T18:50:23+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-11-03T18:50:24+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-11-03T18:50:25+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-11-03T18:50:37+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-11-03T18:50:38+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-11-03T18:50:39+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-11-03T18:51:22+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-11-03T18:51:29+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-11-03T18:51:50+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-11-03T18:51:51+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2016-11-03T18:51:51+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-11-03T18:56:04+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2016-11-03T18:56:06+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-11-03T18:56:15+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-11-03T18:57:51+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-11-03T18:57:54+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-03T18:59:16+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 160 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-11-03T18:59:16+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0678s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0161s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-11-03T18:59:16+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-11-03T19:20:32+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-11-03T19:21:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-11-03T19:45:41+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2016-11-03T19:46:11+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-11-03T19:47:26+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-03T20:23:37+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-11-03T20:23:40+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-11-03T20:24:24+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 186 行.
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0049s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('我试试看[em_1]','杜宇飞','十一月四号晚七点的大礼堂讲座','2016-11-03 20:24:24','0') [ RunTime:0.0652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-11-03T20:24:54+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 186 行.
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0076s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('第二个测试，我就是瞅瞅，不要太在意','杜宇飞','十一月四号晚七点的大礼堂讲座','2016-11-03 20:24:54','0') [ RunTime:0.0578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001426s ]
+
+[ 2016-11-03T20:24:57+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-03T20:29:44+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-11-03T20:30:09+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 186 行.
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0062s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('我们不能远离生活，正如你走在小路上，会偶然的，奇怪的出现一些奇思妙想，这便是灵感。 正如这则叶子的简易动画，就是其中之一。只用最简单最基础的js语句，以及入门阶段的animation动画，共同构造的叶子飘零之意。','宋节','thinkphp连接数据库缓慢的解决方法','2016-11-03 20:30:09','0') [ RunTime:0.0296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2016-11-03T20:30:11+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-11-03T20:30:12+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-11-03T20:31:24+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-11-03T20:31:28+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-11-03T20:52:51+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-11-03T20:53:33+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-11-03T20:54:04+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-11-03T20:54:26+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2016-11-03T20:54:27+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-11-03T20:54:28+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-11-03T20:55:59+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-11-03T20:56:05+08:00 ] ::1 /stucontrol/Home/Index/%7B:U(%22Home/Index/index%22);%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 非法操作:{:U("Home
+
+[ 2016-11-03T20:56:25+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-11-03T20:56:57+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0066s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('这次来个测试，就看看能不能继续发送成功[em_4]','宋节','第一个测试之后的第二个','2016-11-03 20:56:57','0') [ RunTime:0.0427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2016-11-03T20:56:59+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-11-03T20:59:42+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-11-03T20:59:51+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-11-03T21:01:58+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-03T21:02:15+08:00 ] ::1 /stucontrol/Home/Index/%7B:U(%22Home/Index/index%22);%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 非法操作:{:U("Home
+
+[ 2016-11-03T21:02:18+08:00 ] ::1 /stucontrol/Home/Index/%7B:U(%22Home/Index/index%22);%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 非法操作:{:U("Home
+
+[ 2016-11-03T21:04:05+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-11-03T21:04:22+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-11-03T21:04:24+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-11-03T21:04:27+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-11-03T21:10:27+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-11-03T21:10:46+08:00 ] ::1 /stucontrol/Home/Index/dorm.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+
+[ 2016-11-03T21:10:47+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-11-03T21:10:47+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2016-11-03T21:12:16+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-11-03T21:12:17+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-11-03T21:12:27+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-11-03T21:12:27+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 193 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-11-03T21:12:27+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-11-03T21:14:29+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-11-03T21:14:34+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-11-03T21:15:24+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-03T21:16:05+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-11-03T21:16:14+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-11-03T21:16:29+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-03T21:16:29+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-11-03T21:16:45+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2016-11-03T21:16:50+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-11-03T21:16:50+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 193 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-11-03T21:16:50+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-11-03T21:17:00+08:00 ] ::1 /stucontrol/Home/Index/total_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2016-11-03T21:17:01+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-11-03T21:17:03+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-11-03T21:17:04+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-11-03T21:17:06+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-11-03T21:17:22+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-11-03T21:22:10+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-11-03T21:22:12+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-11-03T21:23:43+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-03T21:24:59+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-11-03T21:25:07+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-11-03T21:26:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-11-03T21:28:33+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-11-03T21:28:45+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-11-03T21:29:22+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2016-11-03T21:29:33+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-11-03T21:29:35+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-11-03T21:29:48+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-11-03T21:30:06+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-11-03T21:36:05+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-11-03T21:36:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-11-03T21:36:20+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-11-03T21:36:27+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-11-03T21:36:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-11-03T21:36:44+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-11-03T21:36:48+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-11-03T21:36:55+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-11-03T21:40:10+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-11-03T21:40:18+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-11-03T21:40:23+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-11-03T21:40:47+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-11-03T21:41:03+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-11-03T21:41:11+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-11-03T21:41:30+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-11-03T21:42:00+08:00 ] ::1 /stucontrol/Home/Index/guestbook.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002246s ]
+
+[ 2016-11-03T21:42:01+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-11-03T21:54:23+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-11-03T21:54:24+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-11-03T21:54:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-11-03T21:55:01+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-11-03T22:03:17+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-11-03T22:03:29+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-11-03T22:10:29+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2016-11-03T22:10:29+08:00 ] ::1 /stucontrol/Home/arclist/4]%3C/div%3E%3C/div%3E%3Cdiv%20class=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载控制器:Arclist
+
+[ 2016-11-03T22:10:30+08:00 ] ::1 /stucontrol/Home/arclist/1]%3C/div%3E%3C/div%3E%3Cdiv%20class=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载控制器:Arclist
+
+[ 2016-11-03T22:11:09+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-11-03T22:11:09+08:00 ] ::1 /stucontrol/Home/arclist/4]%3C/div%3E%3C/div%3E%3Cdiv%20class=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载控制器:Arclist
+
+[ 2016-11-03T22:11:09+08:00 ] ::1 /stucontrol/Home/arclist/4]%3C/div%3E%3C/div%3E%3Cdiv%20class=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载控制器:Arclist
+
+[ 2016-11-03T22:11:10+08:00 ] ::1 /stucontrol/Home/arclist/1]%3C/div%3E%3C/div%3E%3Cdiv%20class=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001674s ]
+ERR: 无法加载控制器:Arclist
+
+[ 2016-11-03T22:13:15+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-11-03T22:13:58+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-11-03T22:14:34+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0049s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('第二个测试，我就是瞅瞅，不要太在意[em_1_face_qq]','杜宇飞','十一月四号晚七点的大礼堂讲座','2016-11-03 22:14:34','0') [ RunTime:0.0505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2016-11-03T22:14:37+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0045s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('第二个测试，我就是瞅瞅，不要太在意[em_1_face_qq]','杜宇飞','十一月四号晚七点的大礼堂讲座','2016-11-03 22:14:37','0') [ RunTime:0.0260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-11-03T22:15:15+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0065s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('我们不能远离生活，正如你走在小路上，会偶然的，奇怪的出现一些奇思妙想，这便是灵感。 正如这则叶子的简易动画，就是其中之一。只用最简单最基础的js语句，以及入门阶段的animation动画，共同构造的叶子飘零之意。[em_13_face_qq]','宋节','thinkphp连接数据库缓慢的解决方法','2016-11-03 22:15:15','0') [ RunTime:0.0585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-11-03T22:15:43+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0045s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('这次来个测试，就看看能不能继续发送成功[em_21_face_qq]','宋节','第一个测试之后的第二个','2016-11-03 22:15:43','0') [ RunTime:0.0449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-11-03T22:15:58+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-11-03T22:17:23+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-11-03T22:18:47+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-11-03T22:19:03+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-11-03T22:19:26+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-11-03T22:20:16+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-11-03T22:20:20+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-11-03T22:21:32+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-11-03T22:21:37+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-11-03T22:22:50+08:00 ] ::1 /stucontrol/Home/Index/report_save.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `stu_information` [ RunTime:0.0064s ]
+SQL: INSERT INTO `stu_information` (`content`,`author`,`title`,`reportdate`,`look_number`) VALUES ('今天天气真不错，可是小颜草一点都不乖，满课的我撸代码的时间都没得，烦躁[em_1_face_qq]','宋节','我看看表情这个东西会不会有问题','2016-11-03 22:22:50','0') [ RunTime:0.0500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-11-03T22:22:52+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-11-03T22:24:57+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-11-03T22:27:10+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-11-03T22:49:00+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+
+[ 2016-11-03T22:50:57+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-11-03T22:51:03+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2016-11-03T22:52:39+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-03T22:53:44+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+
+[ 2016-11-03T22:55:09+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-11-03T22:55:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-11-03T22:55:48+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-11-03T23:14:43+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-11-03T23:36:27+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-11-03T23:36:31+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-11-03T23:36:31+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-11-03T23:36:35+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-03T23:36:35+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-11-03T23:36:42+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-11-03T23:36:42+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 235 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2016-11-03T23:36:46+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+
+[ 2016-11-03T23:37:12+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001949s ]
+
+[ 2016-11-03T23:37:12+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-11-03T23:37:47+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-11-03T23:37:47+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-11-03T23:37:47+08:00 ] ::1 /stucontrol/Home/Index/total_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-11-03T23:37:47+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-11-03T23:38:28+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-11-03T23:38:31+08:00 ] ::1 /stucontrol/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-11-03T23:38:34+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-03T23:38:34+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-11-03T23:38:44+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-11-03T23:38:44+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 235 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-11-03T23:38:44+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-11-03T23:39:49+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-11-03T23:41:23+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-11-03T23:41:28+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-11-03T23:41:28+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 235 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-11-03T23:41:58+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-11-03T23:42:01+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-03T23:44:28+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-11-03T23:46:21+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-11-03T23:47:08+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-03T23:47:08+08:00 ] ::1 /stucontrol/Home/Index/admin_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-03T23:47:25+08:00 ] ::1 /stucontrol/Home/Index/validate_handle.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-11-03T23:47:25+08:00 ] ::1 /stucontrol/Home/Index/admin_log_teacher.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `teacher_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `teacher_user`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\WWW\stucontrol\App\Home\Controller\IndexController.class.php 第 236 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000657s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-11-03T23:47:25+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-11-03T23:47:44+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-03T23:48:01+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-11-03T23:48:08+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-11-03T23:48:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-11-03T23:51:09+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+
+[ 2016-11-03T23:53:13+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-11-03T23:53:31+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-11-03T23:55:47+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-11-03T23:57:04+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-11-03T23:59:41+08:00 ] ::1 /stucontrol/Home/Index/teach_log.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
